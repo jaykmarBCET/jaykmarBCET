@@ -22,11 +22,11 @@
 
 ## 🧠 DSA & Problem Solving
 
-- **LeetCode Profile**: [leetcode.com/u/4dCayR96Uy](https://leetcode.com/u/4dCayR96Uy/)  
+- **LeetCode Profile**: [leetcode.com/u/4dCayR96Uy](https://leetcode.com/u/jaykumar591/)  
 - ✅ 210+ problems solved  
 - 💪 Focused on efficient solutions in Java and C++
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/4dCayR96Uy)
+![Leetcode Stats](https://leetcard.jacoblin.cool/jaykumar591)
 
 ---
 

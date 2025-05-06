@@ -29,3 +29,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaykmarbcet&show_icons=true&locale=en" alt="jaykmarbcet" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaykmarbcet&" alt="jaykmarbcet" /></p>
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/4dCayR96Uy)

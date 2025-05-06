@@ -30,4 +30,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaykmarbcet&" alt="jaykmarbcet" /></p>
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/4dCayR96Uy)
+![Leetcode Stats](https://leetcard.jacoblin.cool/jaykumar591)

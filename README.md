@@ -1,38 +1,31 @@
-# 👤 Jay Kumar – Full Stack Developer | Backend Specialist | DSA Enthusiast
+<h1 align="center">Hi 👋, I'm Jay Kumar</h1>
+<h3 align="center">I am a Full Stack Developer with strong expertise in building scalable and high-performance web applications using Node.js and Express on the backend, and React and Next.js on the frontend. I have hands-on experience working with both MongoDB and PostgreSQL, designing efficient schemas and optimizing queries for performance. My development approach emphasizes clean architecture, modular code, and RESTful API design. I enjoy solving real-world problems and continuously improving my skills to build modern, responsive, and secure applications end-to-end.</h3>
 
-🚀 Passionate about crafting scalable, high-performance applications, I specialize in **backend development** using **Java**, **Spring Boot**, **Node.js (Express/Fastify)**, and databases including **PostgreSQL**, **MySQL**, **MongoDB**, and **SQLite**. I pair this with strong **frontend skills** in **React.js**, **Next.js**, and **React Native**, delivering full-stack solutions from concept to deployment.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jaykmarbcet&label=Profile%20views&color=0e75b6&style=flat" alt="jaykmarbcet" /> </p>
 
-💡 Currently building an AI-powered **social media platform** with **real-time features** like video/audio calling (WebRTC), posts, chats, comments, and automatic post generation. I’m also integrating services like **Cloudinary**, **Gemini**, and **Socket.IO** for enhanced functionality.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jaykmarbcet" alt="jaykmarbcet" /></a> </p>
 
-🧠 With solid foundations in **Data Structures and Algorithms** (solving 210+ problems on LeetCode), I aim to write optimized and clean code.  
-📚 Constant learner, now diving deeper into **Spring Boot** and **AI integrations** for backend applications.
+- 🌱 I’m currently learning **spring boot , react native**
 
----
+- 👨‍💻 All of my projects are available at [https://portfolio1-eosin-two.vercel.app/](https://portfolio1-eosin-two.vercel.app/)
 
-## 🛠️ Technical Skills
+- 💬 Ask me about **React,Nextjs,Express,Mongodb, Express, postgreSQL**
 
-- **Languages**: Java, JavaScript, TypeScript, C++, Python  
-- **Frameworks/Libraries**: Spring Boot, Express.js, Fastify, React.js, Next.js, React Native  
-- **Database/ORMs**: PostgreSQL, MySQL, MongoDB, SQLite, Sequelize, Prisma, Mongoose  
-- **Tools**: Docker, Git, Postman, Cloudinary, Socket.IO, Zustand  
-- **Design & UI**: TailwindCSS, GSAP, FontAwesome, Storybook  
-- **AI/ML Integration**: Gemini, Ollama (in progress)
+- 📫 How to reach me **jaykumar3dear@gmail.com**
 
----
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/jay-kumar-96b751298" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jay-kumar-96b751298" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/jaykumar2dear" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jaykumar2dear" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/jaykumar591" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jaykumar591" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/jaykumar488" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="jaykumar488" height="30" width="40" /></a>
+</p>
 
-## 🧠 DSA & Problem Solving
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
-- **LeetCode Profile**: [leetcode.com/u/4dCayR96Uy](https://leetcode.com/u/jaykumar591/)  
-- ✅ 210+ problems solved  
-- 💪 Focused on efficient solutions in Java and C++
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaykmarbcet&show_icons=true&locale=en&layout=compact" alt="jaykmarbcet" /></p>
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/jaykumar591)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaykmarbcet&show_icons=true&locale=en" alt="jaykmarbcet" /></p>
 
----
-
-## 🎯 Current Goals
-
-- Master **Spring Boot** for enterprise-grade backend systems  
-- Integrate AI into backend workflows  
-- Build real-time, scalable applications with complete CI/CD pipelines  
-- Sharpen communication and system design skills
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaykmarbcet&" alt="jaykmarbcet" /></p>

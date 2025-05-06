@@ -4,7 +4,7 @@
 
 💡 Currently building an AI-powered **social media platform** with **real-time features** like video/audio calling (WebRTC), posts, chats, comments, and automatic post generation. I’m also integrating services like **Cloudinary**, **Gemini**, and **Socket.IO** for enhanced functionality.
 
-🧠 With solid foundations in **Data Structures and Algorithms** (solving 500+ problems on LeetCode), I aim to write optimized and clean code.  
+🧠 With solid foundations in **Data Structures and Algorithms** (solving 210+ problems on LeetCode), I aim to write optimized and clean code.  
 📚 Constant learner, now diving deeper into **Spring Boot** and **AI integrations** for backend applications.
 
 ---
@@ -23,8 +23,10 @@
 ## 🧠 DSA & Problem Solving
 
 - **LeetCode Profile**: [leetcode.com/u/4dCayR96Uy](https://leetcode.com/u/4dCayR96Uy/)  
-- ✅ 500+ problems solved across Easy, Medium, and Hard  
+- ✅ 210+ problems solved  
 - 💪 Focused on efficient solutions in Java and C++
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/4dCayR96Uy)
 
 ---
 

@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **spring boot , react native**
 
-- 👨‍💻 All of my projects are available at [https://portfolio1-eosin-two.vercel.app/](https://portfolio-next-kohl-six.vercel.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://portfolio-next-kohl-six.vercel.app/)
 
 - 💬 Ask me about **React,Nextjs,Express,Mongodb, Express, postgreSQL**
 

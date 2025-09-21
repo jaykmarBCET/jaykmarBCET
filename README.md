@@ -26,6 +26,17 @@
 <p align="left">
 <a href="https://linkedin.com/in/jay-kumar-96b751298" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jay-kumar-96b751298" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/jaykumar2dear" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jaykumar2dear" height="30" width="40" /></a>
+  <div style="resize: both; overflow: auto; border: 1px solid #ccc; padding: 4px; width: 100%; max-width: 1000px;">
+  <iframe
+    src="https://www.hackerrank.com/profile/jaykumar2dear"
+    title="HackerRank Profile"
+    width="100%"
+    height="600"
+    style="border: none;"
+    sandbox="allow-scripts allow-same-origin"
+  ></iframe>
+</div>
+
 <a href="https://www.leetcode.com/jaykumar591" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jaykumar591" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/jaykumar488" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="jaykumar488" height="30" width="40" /></a>
 </p>

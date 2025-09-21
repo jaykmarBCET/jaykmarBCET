@@ -2,8 +2,17 @@
 <h3 align="center">I am a Full Stack Developer with strong expertise in building scalable and high-performance web applications using Node.js and Express on the backend, and React and Next.js on the frontend. I have hands-on experience working with both MongoDB and PostgreSQL, designing efficient schemas and optimizing queries for performance. My development approach emphasizes clean architecture, modular code, and RESTful API design. I enjoy solving real-world problems and continuously improving my skills to build modern, responsive, and secure applications end-to-end.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaykmarbcet&label=Profile%20views&color=0e75b6&style=flat" alt="jaykmarbcet" /> </p>
+<div style={{ display: "flex", flexWrap: "wrap", gap: "16px" }}>
+  <p style={{ margin: 0 }} align="left">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+      <img
+        src="https://github-profile-trophy.vercel.app/?username=jaykmarbcet"
+        alt="jaykmarbcet"
+      />
+    </a>
+  </p>
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jaykmarbcet" alt="jaykmarbcet" /></a> </p>
 
 - 🌱 I’m currently learning **spring boot , react native**
 

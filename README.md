@@ -39,7 +39,7 @@ React, Next.js, Express, MongoDB, PostgreSQL
 
 ## 📫 Contact Me
 
-📧 **jaykumar3dear@gmail.com**
+📧 **jaykumar2dear@gmail.com**
 
 ---
 
